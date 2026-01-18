@@ -1,0 +1,20 @@
+title: AI4Chem Arxiv Daily
+description: Automatically Update AI4Chem Papers Daily using Github Actions 
+show_downloads: true
+
+github:
+  zip_url: https://github.com/YuzeHao2023/daily-arxiv-ai4chem
+  another_url: https://github.com/YuzeHao2023/daily-arxiv-ai4chem
+
+## add remote theme
+remote_theme: jekyll/minima@v2.5.1
+
+# minima:
+skin: dark
+social_links:
+  github: YuzeHao2023
+
+plugins:
+ - jekyll-remote-theme # add this line to the plugins list if you already have one
+ - jekyll-feed
+ - jekyll-seo-tag
