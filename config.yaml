@@ -1,6 +1,6 @@
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
 user_name: "YuzeHao2023"
-repo_name: "cv-arxiv-daily"
+repo_name: "daily-arxiv-ai4chem"
 show_authors: True
 show_links: True
 show_badge: True
