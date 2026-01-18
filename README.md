@@ -1,11 +1,3 @@
-# daily-arxiv-ai4chem
-
-🎓Automatically Update AI4Chem Papers Daily using Github Actions
-
-> If you have any other keywords, please feel free to let us know :)
-
-[Web page](https://yuzehao2023.github.io/daily-arxiv-ai4chem/)
-
 ## Updated on 2026.01.18
 > Usage instructions: [here](./docs/README.md#usage)
 
