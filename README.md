@@ -1,4 +1,4 @@
-## Updated on 2026.01.20
+## Updated on 2026.01.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -39,7 +39,7 @@
 |**2026-01-12**|**InfGraND: An Influence-Guided GNN-to-MLP Knowledge Distillation**|Amir Eskandari et.al.|[2601.08033](http://arxiv.org/abs/2601.08033)|null|
 |**2026-01-12**|**Learning to Unfold Fractional Programming for Multi-Cell MU-MIMO Beamforming with Graph Neural Networks**|Zihan Jiao et.al.|[2601.07630](http://arxiv.org/abs/2601.07630)|null|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Generative Design & Molecule Optimization
 
@@ -66,7 +66,7 @@
 |**2026-01-15**|**Self-supervised restoration of singing voice degraded by pitch shifting using shallow diffusion**|Yunyi Liu et.al.|[2601.10345](http://arxiv.org/abs/2601.10345)|null|
 |**2026-01-15**|**Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders**|Siqi Kou et.al.|[2601.10332](http://arxiv.org/abs/2601.10332)|null|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Property Prediction & ADMET
 
@@ -84,7 +84,7 @@
 |**2026-01-05**|**Quantized SO(3)-Equivariant Graph Neural Networks for Efficient Molecular Property Prediction**|Haoyu Zhou et.al.|[2601.02213](http://arxiv.org/abs/2601.02213)|null|
 |**2026-01-01**|**Diagnosing Heteroskedasticity and Resolving Multicollinearity Paradoxes in Physicochemical Property Prediction**|Malikussaid et.al.|[2512.24643](http://arxiv.org/abs/2512.24643)|null|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Reaction, Synthesis & Catalysis
 
@@ -102,7 +102,7 @@
 |**2026-01-07**|**A Pre-trained Reaction Embedding Descriptor Capturing Bond Transformation Patterns**|Weiqi Liu et.al.|[2601.03689](http://arxiv.org/abs/2601.03689)|null|
 |**2026-01-06**|**Breaking the Assistant Mold: Modeling Behavioral Variation in LLM Based Procedural Character Generation**|Maan Qraitem et.al.|[2601.03396](http://arxiv.org/abs/2601.03396)|null|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Quantum Chemistry & Force Fields
 
@@ -129,7 +129,7 @@
 |**2026-01-15**|**Hybrid Quantum Algorithms for Computational Chemistry: Application to the Pyridine-Li ion Complex**|Fatemeh Ghasemi et.al.|[2601.10002](http://arxiv.org/abs/2601.10002)|null|
 |**2026-01-15**|**Parallelizing the Variational Quantum Eigensolver: From JIT Compilation to Multi-GPU Scaling**|Rylan Malarchick et.al.|[2601.09951](http://arxiv.org/abs/2601.09951)|null|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Protein & Biomolecules
 
@@ -155,7 +155,7 @@
 |**2026-01-15**|**The Spatial Blindspot of Vision-Language Models**|Nahid Alam et.al.|[2601.09954](http://arxiv.org/abs/2601.09954)|null|
 |**2026-01-14**|**Collapse of a single polymer chain: Effects of chain stiffness and attraction range**|Yanyan Zhu et.al.|[2601.09908](http://arxiv.org/abs/2601.09908)|null|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Large Language Models & Materials
 
@@ -182,7 +182,7 @@
 |**2026-01-15**|**Influential Training Data Retrieval for Explaining Verbalized Confidence of LLMs**|Yuxi Xia et.al.|[2601.10645](http://arxiv.org/abs/2601.10645)|null|
 |**2026-01-15**|**iTIMO: An LLM-empowered Synthesis Dataset for Travel Itinerary Modification**|Zhuoxuan Huang et.al.|[2601.10609](http://arxiv.org/abs/2601.10609)|null|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/ai4chem-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/ai4chem-arxiv-daily/graphs/contributors
