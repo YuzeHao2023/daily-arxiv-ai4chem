@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**Learning to Dial-a-Ride: A Deep Graph Reinforcement Learning Approach to the Electric Dial-a-Ride Problem**|Sten Elling Tingstad Jacobsen et.al.|[2601.22052](http://arxiv.org/abs/2601.22052)|null|
+|**2026-01-29**|**MEIDNet: Multimodal generative AI framework for inverse materials design**|Anand Babu et.al.|[2601.22009](http://arxiv.org/abs/2601.22009)|null|
+|**2026-01-29**|**Bridging Graph Structure and Knowledge-Guided Editing for Interpretable Temporal Knowledge Graph Reasoning**|Shiqi Fan et.al.|[2601.21978](http://arxiv.org/abs/2601.21978)|null|
+|**2026-01-29**|**Duality-Guided Graph Learning for Real-Time Joint Connectivity and Routing in LEO Mega-Constellations**|Zhouyou Gu et.al.|[2601.21921](http://arxiv.org/abs/2601.21921)|null|
+|**2026-01-29**|**How Expressive Are Graph Neural Networks in the Presence of Node Identifiers?**|Arie Soeteman et.al.|[2601.21882](http://arxiv.org/abs/2601.21882)|null|
+|**2026-01-29**|**Embodied Task Planning via Graph-Informed Action Generation with Large Lanaguage Model**|Xiang Li et.al.|[2601.21841](http://arxiv.org/abs/2601.21841)|null|
 |**2026-01-29**|**Beyond Parameter Finetuning: Test-Time Representation Refinement for Node Classification**|Jiaxin Zhang et.al.|[2601.21615](http://arxiv.org/abs/2601.21615)|null|
 |**2026-01-29**|**Heterogeneity-Aware Knowledge Sharing for Graph Federated Learning**|Wentao Yu et.al.|[2601.21589](http://arxiv.org/abs/2601.21589)|null|
 |**2026-01-29**|**Mean-Field Control on Sparse Graphs: From Local Limits to GNNs via Neighborhood Distributions**|Tobias Schmidt et.al.|[2601.21477](http://arxiv.org/abs/2601.21477)|null|
@@ -89,6 +95,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**One-step Latent-free Image Generation with Pixel Mean Flows**|Yiyang Lu et.al.|[2601.22158](http://arxiv.org/abs/2601.22158)|null|
+|**2026-01-29**|**JUST-DUB-IT: Video Dubbing via Joint Audio-Visual Diffusion**|Anthony Chen et.al.|[2601.22143](http://arxiv.org/abs/2601.22143)|null|
+|**2026-01-29**|**PI-Light: Physics-Inspired Diffusion for Full-Image Relighting**|Zhexin Liang et.al.|[2601.22135](http://arxiv.org/abs/2601.22135)|null|
+|**2026-01-29**|**The Patient is not a Moving Document: A World Model Training Paradigm for Longitudinal EHR**|Irsyad Adam et.al.|[2601.22128](http://arxiv.org/abs/2601.22128)|null|
+|**2026-01-29**|**EditYourself: Audio-Driven Generation and Manipulation of Talking Head Videos with Diffusion Transformers**|John Flynn et.al.|[2601.22127](http://arxiv.org/abs/2601.22127)|null|
+|**2026-01-29**|**Creative Image Generation with Diffusion Model**|Kunpeng Song et.al.|[2601.22125](http://arxiv.org/abs/2601.22125)|null|
+|**2026-01-29**|**Densities of small planets around the M dwarfs TOI-4336 A and TOI-4342 with ESPRESSO: Three sub-Neptunes, one super-Earth, and a Neptune-mass candidate**|Léna Parc et.al.|[2601.22115](http://arxiv.org/abs/2601.22115)|null|
+|**2026-01-29**|**Prior-Informed Flow Matching for Graph Reconstruction**|Harvey Chen et.al.|[2601.22107](http://arxiv.org/abs/2601.22107)|null|
+|**2026-01-29**|**RefAny3D: 3D Asset-Referenced Diffusion Models for Image Generation**|Hanzhuo Huang et.al.|[2601.22094](http://arxiv.org/abs/2601.22094)|null|
+|**2026-01-29**|**Investigating Associational Biases in Inter-Model Communication of Large Generative Models**|Fethiye Irmak Dogan et.al.|[2601.22093](http://arxiv.org/abs/2601.22093)|null|
 |**2026-01-29**|**Enhancing Language Models for Robust Greenwashing Detection**|Neil Heinrich Braun et.al.|[2601.21722](http://arxiv.org/abs/2601.21722)|null|
 |**2026-01-29**|**DreamActor-M2: Universal Character Image Animation via Spatiotemporal In-Context Learning**|Mingshuang Luo et.al.|[2601.21716](http://arxiv.org/abs/2601.21716)|null|
 |**2026-01-29**|**XFACTORS: Disentangled Information Bottleneck via Contrastive Supervision**|Alexandre Myara et.al.|[2601.21688](http://arxiv.org/abs/2601.21688)|null|
@@ -166,6 +182,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**From Particles to Agents: Hallucination as a Metric for Cognitive Friction in Spatial Simulation**|Javier Argota Sánchez-Vaquerizo et.al.|[2601.21977](http://arxiv.org/abs/2601.21977)|null|
 |**2026-01-27**|**Regime-Adaptive Bayesian Optimization via Dirichlet Process Mixtures of Gaussian Processes**|Yan Zhang et.al.|[2601.20043](http://arxiv.org/abs/2601.20043)|null|
 |**2026-01-26**|**XIMP: Cross Graph Inter-Message Passing for Molecular Property Prediction**|Anatol Ehrlich et.al.|[2601.19037](http://arxiv.org/abs/2601.19037)|null|
 |**2026-01-26**|**Accelerating Large-Scale Cheminformatics Using a Byte-Offset Indexing Architecture for Terabyte-Scale Data Integration**|Malikussaid et.al.|[2601.18921](http://arxiv.org/abs/2601.18921)|null|
@@ -228,6 +245,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**SMOG: Scalable Meta-Learning for Multi-Objective Bayesian Optimization**|Leonard Papenmeier et.al.|[2601.22131](http://arxiv.org/abs/2601.22131)|null|
+|**2026-01-29**|**Learning Hamiltonian Flow Maps: Mean Flow Consistency for Large-Timestep Molecular Dynamics**|Winfried Ripken et.al.|[2601.22123](http://arxiv.org/abs/2601.22123)|null|
+|**2026-01-29**|**Integrability properties and stochastic McKean-Vlasov dynamics with singular Lennard-Jones drift: a mesoscale regularization**|Ernesto M. Greco et.al.|[2601.22102](http://arxiv.org/abs/2601.22102)|null|
+|**2026-01-29**|**Molecular structure, binding, and disorder in TDBC-Ag plexcitonic assemblies**|J. Baños-Gutiérrez et.al.|[2601.22022](http://arxiv.org/abs/2601.22022)|null|
+|**2026-01-29**|**MEIDNet: Multimodal generative AI framework for inverse materials design**|Anand Babu et.al.|[2601.22009](http://arxiv.org/abs/2601.22009)|null|
+|**2026-01-29**|**Generalized Information Gathering Under Dynamics Uncertainty**|Fernando Palafox et.al.|[2601.21988](http://arxiv.org/abs/2601.21988)|null|
+|**2026-01-29**|**Elign: Equivariant Diffusion Model Alignment from Foundational Machine Learning Force Fields**|Yunyang Li et.al.|[2601.21985](http://arxiv.org/abs/2601.21985)|null|
+|**2026-01-29**|**Goal-Driven Adaptive Sampling Strategies for Machine Learning Models Predicting Fields**|Jigar Parekh et.al.|[2601.21832](http://arxiv.org/abs/2601.21832)|null|
+|**2026-01-29**|**Synthetic control over marcasite-pyrite polymorph formation in the Fe1-xCoxSe2 series**|Luqman Mustafa et.al.|[2601.21790](http://arxiv.org/abs/2601.21790)|null|
 |**2026-01-29**|**Third and fourth density and acoustic virial coefficients of neon from first-principles calculations**|Robert Hellmann et.al.|[2601.21721](http://arxiv.org/abs/2601.21721)|null|
 |**2026-01-29**|**The roles of bulk and surface thermodynamics in the selective adsorption of a confined azeotropic mixture**|Katie L. Y. Zhou et.al.|[2601.21591](http://arxiv.org/abs/2601.21591)|null|
 |**2026-01-29**|**A Linearization of DFT Spectrum for Precision Power Measurement in Presence of Interharmonics**|Jian Liu et.al.|[2601.21397](http://arxiv.org/abs/2601.21397)|null|
@@ -305,6 +331,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**PLANING: A Loosely Coupled Triangle-Gaussian Framework for Streaming 3D Reconstruction**|Changjian Jiang et.al.|[2601.22046](http://arxiv.org/abs/2601.22046)|null|
+|**2026-01-29**|**Highest weight categories via pairs of dual exceptional sequences**|Agnieszka Bodzenta et.al.|[2601.22004](http://arxiv.org/abs/2601.22004)|null|
+|**2026-01-29**|**From Tokens to Blocks: A Block-Diffusion Perspective on Molecular Generation**|Qianwei Yang et.al.|[2601.21964](http://arxiv.org/abs/2601.21964)|null|
+|**2026-01-29**|**ToolWeaver: Weaving Collaborative Semantics for Scalable Tool Use in Large Language Models**|Bowen Fang et.al.|[2601.21947](http://arxiv.org/abs/2601.21947)|null|
+|**2026-01-29**|**Beyond Global Alignment: Fine-Grained Motion-Language Retrieval via Pyramidal Shapley-Taylor Learning**|Hanmo Chen et.al.|[2601.21904](http://arxiv.org/abs/2601.21904)|null|
+|**2026-01-29**|**MoHETS: Long-term Time Series Forecasting with Mixture-of-Heterogeneous-Experts**|Evandro S. Ortigossa et.al.|[2601.21866](http://arxiv.org/abs/2601.21866)|null|
 |**2026-01-29**|**Procedural Pretraining: Warming Up Language Models with Abstract Data**|Liangze Jiang et.al.|[2601.21725](http://arxiv.org/abs/2601.21725)|null|
 |**2026-01-29**|**LLM4Fluid: Large Language Models as Generalizable Neural Solvers for Fluid Dynamics**|Qisong Xiao et.al.|[2601.21681](http://arxiv.org/abs/2601.21681)|null|
 |**2026-01-29**|**Computational investigation of single herbal drugs in Ayurveda for diabetes and obesity using knowledge graph and network pharmacology**|Priyotosh Sil et.al.|[2601.21643](http://arxiv.org/abs/2601.21643)|null|
@@ -381,6 +413,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**UEval: A Benchmark for Unified Multimodal Generation**|Bo Li et.al.|[2601.22155](http://arxiv.org/abs/2601.22155)|null|
+|**2026-01-29**|**DynaWeb: Model-Based Reinforcement Learning of Web Agents**|Hang Ding et.al.|[2601.22149](http://arxiv.org/abs/2601.22149)|null|
+|**2026-01-29**|**FineInstructions: Scaling Synthetic Instructions to Pre-Training Scale**|Ajay Patel et.al.|[2601.22146](http://arxiv.org/abs/2601.22146)|null|
+|**2026-01-29**|**Reasoning While Asking: Transforming Reasoning Large Language Models from Passive Solvers to Proactive Inquirers**|Xin Chen et.al.|[2601.22139](http://arxiv.org/abs/2601.22139)|null|
+|**2026-01-29**|**Pay for Hints, Not Answers: LLM Shepherding for Cost-Efficient Inference**|Ziming Dong et.al.|[2601.22132](http://arxiv.org/abs/2601.22132)|null|
+|**2026-01-29**|**World of Workflows: a Benchmark for Bringing World Models to Enterprise Systems**|Lakshya Gupta et.al.|[2601.22130](http://arxiv.org/abs/2601.22130)|null|
+|**2026-01-29**|**SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents**|Yifeng Ding et.al.|[2601.22129](http://arxiv.org/abs/2601.22129)|null|
+|**2026-01-29**|**The Patient is not a Moving Document: A World Model Training Paradigm for Longitudinal EHR**|Irsyad Adam et.al.|[2601.22128](http://arxiv.org/abs/2601.22128)|null|
+|**2026-01-29**|**A Federated and Parameter-Efficient Framework for Large Language Model Training in Medicine**|Anran Li et.al.|[2601.22124](http://arxiv.org/abs/2601.22124)|null|
+|**2026-01-29**|**ECO: Quantized Training without Full-Precision Master Weights**|Mahdi Nikdan et.al.|[2601.22101](http://arxiv.org/abs/2601.22101)|null|
 |**2026-01-29**|**EWSJF: An Adaptive Scheduler with Hybrid Partitioning for Mixed-Workload LLM Inference**|Bronislav Sidik et.al.|[2601.21758](http://arxiv.org/abs/2601.21758)|null|
 |**2026-01-29**|**Language-based Trial and Error Falls Behind in the Era of Experience**|Haoyu Wang et.al.|[2601.21754](http://arxiv.org/abs/2601.21754)|null|
 |**2026-01-29**|**Temporal Guidance for Large Language Models**|Hong-Kai Zheng et.al.|[2601.21744](http://arxiv.org/abs/2601.21744)|null|
