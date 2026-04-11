@@ -7,6 +7,7 @@ import logging
 import argparse
 import datetime
 import requests
+from arxiv_exceptions import ArxivFetchError, GitHubAPIError, FileOperationError, ConfigError
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -40,10 +41,13 @@ def load_config(config_file:str) -> dict:
         for k,v in config['keywords'].items():
             keywords[k] = parse_filters(v['filters'])
         return keywords
-    with open(config_file,'r') as f:
-        config = yaml.load(f,Loader=yaml.FullLoader)
-        config['kv'] = pretty_filters(**config)
-        logging.info(f'config = {config}')
+    try:
+        with open(config_file,'r') as f:
+            config = yaml.load(f,Loader=yaml.FullLoader)
+            config['kv'] = pretty_filters(**config)
+            logging.info(f'config = {config}')
+    except (OSError, yaml.YAMLError) as e:
+        raise ConfigError(f"Failed to load config '{config_file}': {e}") from e
     return config
 
 def get_authors(authors, first_author = False):
@@ -76,8 +80,12 @@ def get_code_link(qword:str) -> str:
         "sort": "stars",
         "order": "desc"
     }
-    r = requests.get(github_url, params=params)
-    results = r.json()
+    try:
+        r = requests.get(github_url, params=params)
+        results = r.json()
+    except requests.RequestException as e:
+        logging.warning(f"GitHub API request failed for '{qword}': {e}")
+        return None
     code_link = None
     if results["total_count"] > 0:
         code_link = results["items"][0]["html_url"]
@@ -98,7 +106,13 @@ def get_daily_papers(topic,query="slam", max_results=2):
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in search_engine.results():
+    try:
+        results_iter = list(search_engine.results())
+    except Exception as e:
+        logging.error(f"arXiv API fetch failed for topic '{topic}' (query='{query}'): {e}")
+        return {topic: content}, {topic: content_to_web}
+
+    for result in results_iter:
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
@@ -153,43 +167,53 @@ def update_paper_links(filename):
         arxiv_id = re.sub(r'v\d+', '', arxiv_id)
         return date,title,authors,arxiv_id,code
 
-    with open(filename,"r") as f:
-        content = f.read()
-        if not content:
-            m = {}
-        else:
-            m = json.loads(content)
+    try:
+        with open(filename,"r") as f:
+            content = f.read()
+            if not content:
+                m = {}
+            else:
+                m = json.loads(content)
+    except (OSError, json.JSONDecodeError) as e:
+        raise FileOperationError(f"Failed to read '{filename}': {e}") from e
 
-        json_data = m.copy()
+    json_data = m.copy()
 
-        for keywords,v in json_data.items():
-            logging.info(f'keywords = {keywords}')
-            for paper_id,contents in v.items():
-                contents = str(contents)
+    for keywords,v in json_data.items():
+        logging.info(f'keywords = {keywords}')
+        for paper_id,contents in v.items():
+            contents = str(contents)
 
-                update_time, paper_title, paper_first_author, paper_url, code_url = parse_arxiv_string(contents)
+            update_time, paper_title, paper_first_author, paper_url, code_url = parse_arxiv_string(contents)
 
-                contents = "|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url,code_url)
-                json_data[keywords][paper_id] = str(contents)
-                logging.info(f'paper_id = {paper_id}, contents = {contents}')
+            contents = "|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url,code_url)
+            json_data[keywords][paper_id] = str(contents)
+            logging.info(f'paper_id = {paper_id}, contents = {contents}')
 
-                # PapersWithCode API is deprecated, skip code link updates
-                # Papers will keep their existing null code links
-                logging.info(f'Skipping code link update for paper_id = {paper_id} (PapersWithCode API deprecated)')
+            # PapersWithCode API is deprecated, skip code link updates
+            # Papers will keep their existing null code links
+            logging.info(f'Skipping code link update for paper_id = {paper_id} (PapersWithCode API deprecated)')
+
+    try:
         # dump to json file
         with open(filename,"w") as f:
             json.dump(json_data,f)
+    except OSError as e:
+        raise FileOperationError(f"Failed to write '{filename}': {e}") from e
 
 def update_json_file(filename,data_dict):
     '''
     daily update json file using data_dict
     '''
-    with open(filename,"r") as f:
-        content = f.read()
-        if not content:
-            m = {}
-        else:
-            m = json.loads(content)
+    try:
+        with open(filename,"r") as f:
+            content = f.read()
+            if not content:
+                m = {}
+            else:
+                m = json.loads(content)
+    except (OSError, json.JSONDecodeError) as e:
+        raise FileOperationError(f"Failed to read '{filename}': {e}") from e
 
     json_data = m.copy()
 
@@ -203,8 +227,11 @@ def update_json_file(filename,data_dict):
             else:
                 json_data[keyword] = papers
 
-    with open(filename,"w") as f:
-        json.dump(json_data,f)
+    try:
+        with open(filename,"w") as f:
+            json.dump(json_data,f)
+    except OSError as e:
+        raise FileOperationError(f"Failed to write '{filename}': {e}") from e
 
 def json_to_md(filename,md_filename,
                task = '',
