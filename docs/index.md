@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.05.05
+## Updated on 2026.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Molecular Representation & Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Magic-Informed Quantum Architecture Search**|Vincenzo Lipardi et.al.|[2605.03932](http://arxiv.org/abs/2605.03932)|null|
+|**2026-05-05**|**Graph Neural Networks in the Wilson Loop Representation of Abelian Lattice Gauge Theories**|Ali Rayat et.al.|[2605.03901](http://arxiv.org/abs/2605.03901)|null|
+|**2026-05-05**|**Aspect-Aware Content-Based Recommendations for Mathematical Research Papers**|Ankit Satpute et.al.|[2605.03861](http://arxiv.org/abs/2605.03861)|null|
+|**2026-05-05**|**Graph Neural Network based Hierarchy-Aware Embeddings of Knowledge Graphs: Applications to Yeast Phenotype Prediction**|Filip Kronström et.al.|[2605.03690](http://arxiv.org/abs/2605.03690)|null|
+|**2026-05-05**|**Deep Graph-Language Fusion for Structure-Aware Code Generation**|Mert Tiftikci et.al.|[2605.03689](http://arxiv.org/abs/2605.03689)|null|
+|**2026-05-05**|**Graph Reconstruction from Differentially Private GNN Explanations**|Rishi Raj Sahoo et.al.|[2605.03388](http://arxiv.org/abs/2605.03388)|null|
+|**2026-05-05**|**GRAFT: Auditing Graph Neural Networks via Global Feature Attribution**|Rishi Raj Sahoo et.al.|[2605.03377](http://arxiv.org/abs/2605.03377)|null|
+|**2026-05-05**|**Will the Carbon Border Adjustment Mechanism Impact European Electricity Prices? A GNN-Based Network Analysis**|Jiachen Shen et.al.|[2605.03304](http://arxiv.org/abs/2605.03304)|null|
+|**2026-05-05**|**Stable Multimodal Graph Unlearning via Feature-Dimension Aware Quantile Selection**|Jingjing Zhou et.al.|[2605.03303](http://arxiv.org/abs/2605.03303)|null|
+|**2026-05-04**|**Semantically Enriching Investor Micro-blogs for Opinion-Aware Emotion Analysis: A Practical Approach**|Gaurav Negi et.al.|[2605.03092](http://arxiv.org/abs/2605.03092)|null|
 |**2026-05-04**|**DynoSLAM: Dynamic SLAM with Generative Graph Neural Networks for Real-World Social Navigation**|Danil Tokhchukov et.al.|[2605.02759](http://arxiv.org/abs/2605.02759)|null|
 |**2026-05-04**|**Learning Equivariant Neural-Augmented Object Dynamics From Few Interactions**|Sergio Orozco et.al.|[2605.02699](http://arxiv.org/abs/2605.02699)|null|
 |**2026-05-04**|**SCGNN: Semantic Consistency enhanced Graph Neural Network Guided by Granular-ball Computing**|Genhao Tian et.al.|[2605.02617](http://arxiv.org/abs/2605.02617)|null|
@@ -625,6 +635,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Large Language Models are Universal Reasoners for Visual Generation**|Sucheng Ren et.al.|[2605.04040](http://arxiv.org/abs/2605.04040)|null|
+|**2026-05-05**|**Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures**|Evangelos Ntavelis et.al.|[2605.04035](http://arxiv.org/abs/2605.04035)|null|
+|**2026-05-05**|**Flow Sampling: Learning to Sample from Unnormalized Densities via Denoising Conditional Processes**|Aaron Havens et.al.|[2605.03984](http://arxiv.org/abs/2605.03984)|null|
+|**2026-05-05**|**Pretrained Model Representations as Acquisition Signals for Active Learning of MLIPs**|Eszter Varga-Umbrich et.al.|[2605.03964](http://arxiv.org/abs/2605.03964)|null|
+|**2026-05-05**|**DMGD: Train-Free Dataset Distillation with Semantic-Distribution Matching in Diffusion Models**|Qichao Wang et.al.|[2605.03877](http://arxiv.org/abs/2605.03877)|null|
+|**2026-05-05**|**Evaluating Generative Models as Interactive Emergent Representations of Human-Like Collaborative Behavior**|Shinas Shaji et.al.|[2605.03855](http://arxiv.org/abs/2605.03855)|null|
+|**2026-05-05**|**Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation**|Bin Wu et.al.|[2605.03849](http://arxiv.org/abs/2605.03849)|null|
+|**2026-05-05**|**Towards accurate extreme event likelihoods from diffusion model climate emulators**|Peter Manshausen et.al.|[2605.03802](http://arxiv.org/abs/2605.03802)|null|
+|**2026-05-05**|**Neural-network reconstruction of THz transmission spectra using electrically tunable AlGaN/GaN plasmonic-crystal analyzer**|A. Witkowska et.al.|[2605.03778](http://arxiv.org/abs/2605.03778)|null|
+|**2026-05-05**|**GeoTopoDiff: Learning Geometry--Topology Graph Priors through Boundary-Constrained Mixed Diffusion for Sparse-Slice 3D Porous Reconstruction**|Yue Shi et.al.|[2605.03764](http://arxiv.org/abs/2605.03764)|null|
 |**2026-05-04**|**Active Sampling for Ultra-Low-Bit-Rate Video Compression via Conditional Controlled Diffusion**|Amirhosein Javadi et.al.|[2605.02849](http://arxiv.org/abs/2605.02849)|null|
 |**2026-05-04**|**Fine-Grained Graph Generation through Latent Mixture Scheduling**|Nidhi Vakil et.al.|[2605.02780](http://arxiv.org/abs/2605.02780)|null|
 |**2026-05-04**|**TOC-SR: Task-Optimal Compact diffusion for Image Super Resolution**|Sowmya Vajrala et.al.|[2605.02767](http://arxiv.org/abs/2605.02767)|null|
@@ -1532,8 +1552,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-04**|**MolViBench: Evaluating LLMs on Molecular Vibe Coding**|Jiatong Li et.al.|[2605.02351](http://arxiv.org/abs/2605.02351)|null|
-|**2026-05-03**|**Benchmarking Single-Pose Docking, Consensus Rescoring, and Supervised ML on the LIT-PCBA Library: A Critical Evaluation of DiffDock, AutoDock-GPU, GNINA, and DiffDock-NMDN**|Youssef Abo-Dahab et.al.|[2605.01681](http://arxiv.org/abs/2605.01681)|null|
+|**2026-05-05**|**MolViBench: Evaluating LLMs on Molecular Vibe Coding**|Jiatong Li et.al.|[2605.02351](http://arxiv.org/abs/2605.02351)|null|
+|**2026-05-05**|**Benchmarking Single-Pose Docking, Consensus Rescoring, and Supervised ML on the LIT-PCBA Library: A Critical Evaluation of DiffDock, AutoDock-GPU, GNINA, and DiffDock-NMDN**|Youssef Abo-Dahab et.al.|[2605.01681](http://arxiv.org/abs/2605.01681)|null|
 |**2026-05-01**|**A Comparative Study of QSPR Methods on a Unique Multitask PAMPA dataset**|Andrs Formanek et.al.|[2605.00508](http://arxiv.org/abs/2605.00508)|null|
 |**2026-04-29**|**Resolving Open Problems on the Hyper-Zagreb Index and its Chemical Applications**|Kinkar Chandra Das et.al.|[2605.00044](http://arxiv.org/abs/2605.00044)|null|
 |**2026-04-30**|**Hyper-Dimensional Fingerprints as Molecular Representations**|Jonas Teufel et.al.|[2604.27810](http://arxiv.org/abs/2604.27810)|null|
@@ -1764,6 +1784,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Pretrained Model Representations as Acquisition Signals for Active Learning of MLIPs**|Eszter Varga-Umbrich et.al.|[2605.03964](http://arxiv.org/abs/2605.03964)|null|
+|**2026-05-05**|**Time-dependent variational Monte Carlo without bias**|Wladislaw Krinitsin et.al.|[2605.03930](http://arxiv.org/abs/2605.03930)|null|
+|**2026-05-05**|**Defect-Engineered Beryllium Dinitride (BeN2) Monolayer with Light-Metal Decoration for Reversible High-Capacity Hydrogen Storage**|Wael Othman et.al.|[2605.03738](http://arxiv.org/abs/2605.03738)|null|
+|**2026-05-05**|**Discovering Reaction Mechanisms with Transition Path Sampling-Based Active Learning of Machine-Learned Potentials**|Ashique Lal et.al.|[2605.03737](http://arxiv.org/abs/2605.03737)|null|
+|**2026-05-05**|**Theoretical Calculation of Electron Transfer Between Calcium Ground-State Atoms and Rydberg Atoms**|Alisée Bouillon et.al.|[2605.03684](http://arxiv.org/abs/2605.03684)|null|
+|**2026-05-05**|**Pressure induced Electronic and Structural Transition in Ba $_2$NiTeO$_6$**|Bidisha Mukherjee et.al.|[2605.03593](http://arxiv.org/abs/2605.03593)|null|
+|**2026-05-05**|**Gauge-Field-Mediated Symmetry Breaking of Matters Under Electromagnetic Fields and Its Impact on Spin Dynamics**|Uiseok Jeong et.al.|[2605.03539](http://arxiv.org/abs/2605.03539)|null|
+|**2026-05-05**|**Influence of ligand field and correlation on the electronic structure of NiO and CoO from DFT+DMFT calculations**|Daniel Mutter et.al.|[2605.03526](http://arxiv.org/abs/2605.03526)|null|
+|**2026-05-05**|**First-principles prediction of chiral-phonon-induced orbital accumulation**|A. Pezo et.al.|[2605.03486](http://arxiv.org/abs/2605.03486)|null|
+|**2026-05-05**|**Energy dissipation at the atomic scale explains how fracture energy depends on crack velocity in silica glass**|Marthe Grønlie Guren et.al.|[2605.03457](http://arxiv.org/abs/2605.03457)|null|
 |**2026-05-04**|**TOC-SR: Task-Optimal Compact diffusion for Image Super Resolution**|Sowmya Vajrala et.al.|[2605.02767](http://arxiv.org/abs/2605.02767)|null|
 |**2026-05-04**|**Caliper-in-the-Loop: Black-Box Optimization for Hyperledger Fabric Performance Tuning**|Yash Madhwal et.al.|[2605.02690](http://arxiv.org/abs/2605.02690)|null|
 |**2026-05-04**|**A Unified microscopic picture of cation and anion migration in MAPbI $_3$**|Viren Tyagi et.al.|[2605.02685](http://arxiv.org/abs/2605.02685)|null|
@@ -2599,6 +2629,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents**|Jonathan Steinberg et.al.|[2605.03952](http://arxiv.org/abs/2605.03952)|null|
+|**2026-05-05**|**AgenticPosesRanker: An Agentic AI Framework for Physically Grounded Ranking of Protein-Ligand Docking Poses**|Sofiene Khiari et.al.|[2605.03707](http://arxiv.org/abs/2605.03707)|null|
+|**2026-05-05**|**Resource Allocation and AoI-Aware Detection for ISAC with Stacked Intelligent Metasurfaces**|Elaheh Ataeebojd et.al.|[2605.03558](http://arxiv.org/abs/2605.03558)|null|
+|**2026-05-05**|**Rational Communication Shapes Morphological Composition**|Fengyuan Yang et.al.|[2605.03510](http://arxiv.org/abs/2605.03510)|null|
+|**2026-05-05**|**Promoting Fair Online Resource Allocation with Indivisible Units**|Igor Averbakh et.al.|[2605.03436](http://arxiv.org/abs/2605.03436)|null|
+|**2026-05-05**|**MK-ResRecon: Multi-Kernel Residual Framework for Texture-Aware 3D MRI Refinement from Sparse 2D Slices**|Prajyot Pyati et.al.|[2605.03432](http://arxiv.org/abs/2605.03432)|null|
+|**2026-05-05**|**Revisiting General Map Search via Generative Point-of-Interest Retrieval**|Dong Chen et.al.|[2605.03397](http://arxiv.org/abs/2605.03397)|null|
+|**2026-05-05**|**Event-Based Dynamic Programming for Pumped-Storage Hydropower Scheduling**|Bo Yang et.al.|[2605.03374](http://arxiv.org/abs/2605.03374)|null|
+|**2026-05-05**|**A-CODE: Fully Atomic Protein Co-Design with Unified Multimodal Diffusion**|Chaoran Cheng et.al.|[2605.03360](http://arxiv.org/abs/2605.03360)|null|
+|**2026-05-05**|**Donor-Aware scRNA-seq Benchmarks for IBD Classification**|Jonathan Muhire et.al.|[2605.03281](http://arxiv.org/abs/2605.03281)|null|
 |**2026-05-04**|**Period-conscious Time-series Reconstruction under Local Differential Privacy**|Yaxuan Wang et.al.|[2605.02724](http://arxiv.org/abs/2605.02724)|null|
 |**2026-05-04**|**Euclid preparation. CosmoPostProcess: A simulation calibrated framework for weak lensing selection bias in richness-selected galaxy clusters**|Euclid Collaboration et.al.|[2605.02723](http://arxiv.org/abs/2605.02723)|null|
 |**2026-05-04**|**From Finite-Node Conifold Geometry to BPS Structures III: Mediated Triangle Transport and Graded Interaction Data**|Abdul Rahman et.al.|[2605.02704](http://arxiv.org/abs/2605.02704)|null|
@@ -3408,6 +3448,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Large Language Models are Universal Reasoners for Visual Generation**|Sucheng Ren et.al.|[2605.04040](http://arxiv.org/abs/2605.04040)|null|
+|**2026-05-05**|**Safety and accuracy follow different scaling laws in clinical large language models**|Sebastian Wind et.al.|[2605.04039](http://arxiv.org/abs/2605.04039)|null|
+|**2026-05-05**|**OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories**|Yuwen Du et.al.|[2605.04036](http://arxiv.org/abs/2605.04036)|null|
+|**2026-05-05**|**Stayin' Aligned Over Time: Towards Longitudinal Human-LLM Alignment via Contextual Reflection and Privacy-Preserving Behavioral Data**|Simret Araya Gebreegziabher et.al.|[2605.04029](http://arxiv.org/abs/2605.04029)|null|
+|**2026-05-05**|**Physics-Grounded Multi-Agent Architecture for Traceable, Risk-Aware Human-AI Decision Support in Manufacturing**|Danny Hoang et.al.|[2605.04003](http://arxiv.org/abs/2605.04003)|null|
+|**2026-05-05**|**EQUITRIAGE: A Fairness Audit of Gender Bias in LLM-Based Emergency Department Triage**|Richard J. Young et.al.|[2605.03998](http://arxiv.org/abs/2605.03998)|null|
+|**2026-05-05**|**Logical Consistency as a Bridge: Improving LLM Hallucination Detection via Label Constraint Modeling between Responses and Self-Judgments**|Hao Mi et.al.|[2605.03971](http://arxiv.org/abs/2605.03971)|null|
+|**2026-05-05**|**Generating Proof-of-Vulnerability Tests to Help Enhance the Security of Complex Software**|Shravya Kanchi et.al.|[2605.03956](http://arxiv.org/abs/2605.03956)|null|
+|**2026-05-05**|**Beyond Rules: LLM-Powered Linting for Quantum Programs**|Pietro Cassieri et.al.|[2605.03943](http://arxiv.org/abs/2605.03943)|null|
+|**2026-05-05**|**StateVLM: A State-Aware Vision-Language Model for Robotic Affordance Reasoning**|Xiaowen Sun et.al.|[2605.03927](http://arxiv.org/abs/2605.03927)|null|
 |**2026-05-04**|**SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection**|Shikhar Shukla et.al.|[2605.02888](http://arxiv.org/abs/2605.02888)|null|
 |**2026-05-04**|**Semantic Risk-Aware Heuristic Planning for Robotic Navigation in Dynamic Environments: An LLM-Inspired Approach**|Hamza Ahmed Durrani et.al.|[2605.02862](http://arxiv.org/abs/2605.02862)|null|
 |**2026-05-04**|**Standing on the Shoulders of Giants: Stabilized Knowledge Distillation for Cross--Language Code Clone Detection**|Mohamad Khajezade et.al.|[2605.02860](http://arxiv.org/abs/2605.02860)|null|
