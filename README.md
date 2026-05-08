@@ -1,4 +1,4 @@
-## Updated on 2026.05.07
+## Updated on 2026.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-07**|**Towards Metric-Faithful Neural Graph Matching**|Jyotirmaya Shivottam et.al.|[2605.06588](http://arxiv.org/abs/2605.06588)|null|
+|**2026-05-07**|**On the Safety of Graph Representation Learning**|Xiaoguang Guo et.al.|[2605.06576](http://arxiv.org/abs/2605.06576)|null|
+|**2026-05-07**|**No Triangulation Without Representation: Generalization in Topological Deep Learning**|Johannes S. Schmidt et.al.|[2605.06467](http://arxiv.org/abs/2605.06467)|null|
+|**2026-05-07**|**Invariant-Based Diagnostics for Graph Benchmarks**|Richard von Moos et.al.|[2605.06462](http://arxiv.org/abs/2605.06462)|null|
+|**2026-05-07**|**Federated Cross-Client Subgraph Pattern Detection**|Selin Ceydeli et.al.|[2605.06433](http://arxiv.org/abs/2605.06433)|null|
+|**2026-05-07**|**Consistent Geometric Deep Learning via Hilbert Bundles and Cellular Sheaves**|Kartik Tandon et.al.|[2605.06395](http://arxiv.org/abs/2605.06395)|null|
+|**2026-05-07**|**The Role of Node Features in Graph Pooling**|Jan von Pichowski et.al.|[2605.06250](http://arxiv.org/abs/2605.06250)|null|
+|**2026-05-07**|**Full-Spectrum Graph Neural Network: Expressive and Scalable**|Xiaohan Wang et.al.|[2605.05759](http://arxiv.org/abs/2605.05759)|null|
+|**2026-05-07**|**Adversarial Graph Neural Network Benchmarks: Towards Practical and Fair Evaluation**|Tran Gia Bao Ngo et.al.|[2605.05534](http://arxiv.org/abs/2605.05534)|null|
+|**2026-05-06**|**A Unified Benchmark for Evaluating Knowledge Graph Construction Methods and Graph Neural Networks**|Othmane Kabal et.al.|[2605.05476](http://arxiv.org/abs/2605.05476)|null|
 |**2026-05-06**|**Quantile-Free Uncertainty Quantification in Graph Neural Networks**|Soyoung park et.al.|[2605.04847](http://arxiv.org/abs/2605.04847)|null|
 |**2026-05-06**|**Unsat Core Prediction through Polarity-Aware Representation Learning over Clause-Literal Hypergraphs**|Zhenchao Sun et.al.|[2605.04819](http://arxiv.org/abs/2605.04819)|null|
 |**2026-05-06**|**From Beats to Breaches:How Offensive AI Infers Sensitive User Information from Playlists**|Stefano Cecconello et.al.|[2605.04724](http://arxiv.org/abs/2605.04724)|null|
@@ -648,12 +658,22 @@
 |**2026-01-12**|**InfGraND: An Influence-Guided GNN-to-MLP Knowledge Distillation**|Amir Eskandari et.al.|[2601.08033](http://arxiv.org/abs/2601.08033)|null|
 |**2026-01-12**|**Learning to Unfold Fractional Programming for Multi-Cell MU-MIMO Beamforming with Graph Neural Networks**|Zihan Jiao et.al.|[2601.07630](http://arxiv.org/abs/2601.07630)|null|
 
-<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 ## Generative Design & Molecule Optimization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-07**|**ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation**|Omar El Khalifi et.al.|[2605.06667](http://arxiv.org/abs/2605.06667)|null|
+|**2026-05-07**|**Relit-LiVE: Relight Video by Jointly Learning Environment Video**|Weiqing Xiao et.al.|[2605.06658](http://arxiv.org/abs/2605.06658)|null|
+|**2026-05-07**|**Hybrid Quantum-Classical GANs for the Generation of Adversarial Network Flows**|Prateek Paudel et.al.|[2605.06629](http://arxiv.org/abs/2605.06629)|null|
+|**2026-05-07**|**TMDs in the Lens of Generative AI: A Pixel-Based Approach to Partonic Imaging**|Marco Zaccheddu et.al.|[2605.06606](http://arxiv.org/abs/2605.06606)|null|
+|**2026-05-07**|**Improved techniques for fine-tuning flow models via adjoint matching: a deterministic control pipeline**|Zhengyi Guo et.al.|[2605.06583](http://arxiv.org/abs/2605.06583)|null|
+|**2026-05-07**|**Diverse Sampling in Diffusion Models with Marginal Preserving Particle Guidance**|Gal Vinograd et.al.|[2605.06553](http://arxiv.org/abs/2605.06553)|null|
+|**2026-05-07**|**Continuous Latent Diffusion Language Model**|Hongcan Guo et.al.|[2605.06548](http://arxiv.org/abs/2605.06548)|null|
+|**2026-05-07**|**SpatialEpiBench: Benchmarking Spatial Information and Epidemic Priors in Forecasting**|Ruiqi Lyu et.al.|[2605.06530](http://arxiv.org/abs/2605.06530)|null|
+|**2026-05-07**|**DCR: Counterfactual Attractor Guidance for Rare Compositional Generation**|Taewon Kang et.al.|[2605.06512](http://arxiv.org/abs/2605.06512)|null|
+|**2026-05-07**|**Is One Layer Enough? Understanding Inference Dynamics in Tabular Foundation Models**|Amir Rezaei Balef et.al.|[2605.06510](http://arxiv.org/abs/2605.06510)|null|
 |**2026-05-06**|**Taming Outlier Tokens in Diffusion Transformers**|Xiaoyu Wu et.al.|[2605.05206](http://arxiv.org/abs/2605.05206)|null|
 |**2026-05-06**|**D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models**|Dengyang Jiang et.al.|[2605.05204](http://arxiv.org/abs/2605.05204)|null|
 |**2026-05-06**|**LoViF 2026 The First Challenge on Holistic Quality Assessment for 4D World Model (PhyScore)**|Wei Luo et.al.|[2605.05187](http://arxiv.org/abs/2605.05187)|null|
@@ -1577,7 +1597,7 @@
 |**2026-01-15**|**Self-supervised restoration of singing voice degraded by pitch shifting using shallow diffusion**|Yunyi Liu et.al.|[2601.10345](http://arxiv.org/abs/2601.10345)|null|
 |**2026-01-15**|**Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders**|Siqi Kou et.al.|[2601.10332](http://arxiv.org/abs/2601.10332)|null|
 
-<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 ## Property Prediction & ADMET
 
@@ -1674,12 +1694,13 @@
 |**2026-01-05**|**Quantized SO(3)-Equivariant Graph Neural Networks for Efficient Molecular Property Prediction**|Haoyu Zhou et.al.|[2601.02213](http://arxiv.org/abs/2601.02213)|null|
 |**2026-01-01**|**Diagnosing Heteroskedasticity and Resolving Multicollinearity Paradoxes in Physicochemical Property Prediction**|Malikussaid et.al.|[2512.24643](http://arxiv.org/abs/2512.24643)|null|
 
-<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 ## Reaction, Synthesis & Catalysis
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-07**|**Edge-specific signal propagation on mature chromophore-region 3D mechanism graphs for fluorescent protein quantum-yield prediction**|Yuchen Xiong et.al.|[2605.06644](http://arxiv.org/abs/2605.06644)|null|
 |**2026-05-06**|**Catalytic advantage in asymptotic entanglement manipulation**|Ray Ganardi et.al.|[2605.04879](http://arxiv.org/abs/2605.04879)|null|
 |**2026-05-03**|**Meta-LegNet: A Transferable and Interpretable Framework for Surface Adsorption Prediction via Self-Defined Adsorption-Environment Learning**|Yifan Li et.al.|[2605.04102](http://arxiv.org/abs/2605.04102)|null|
 |**2026-05-03**|**Multiscale computational approaches to magnetic behaviour in Cobalt Ferrite (CoFe $_2$O$_4$ ) nanostructures**|Soham Chandra et.al.|[2605.02065](http://arxiv.org/abs/2605.02065)|null|
@@ -1816,12 +1837,22 @@
 |**2026-01-07**|**A Pre-trained Reaction Embedding Descriptor Capturing Bond Transformation Patterns**|Weiqi Liu et.al.|[2601.03689](http://arxiv.org/abs/2601.03689)|null|
 |**2026-01-06**|**Breaking the Assistant Mold: Modeling Behavioral Variation in LLM Based Procedural Character Generation**|Maan Qraitem et.al.|[2601.03396](http://arxiv.org/abs/2601.03396)|null|
 
-<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 ## Quantum Chemistry & Force Fields
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-07**|**MTRBO: Multiple trust-region based Bayesian optimization**|Sourav Das et.al.|[2605.06618](http://arxiv.org/abs/2605.06618)|null|
+|**2026-05-07**|**Molecular dynamics simulation study of mechanical properties of 3C-SiC with extended defects**|Serhii Shmahlii et.al.|[2605.06574](http://arxiv.org/abs/2605.06574)|null|
+|**2026-05-07**|**Emergence of a correlated insulating state in bulk 1T-NbSe $_2$ via metal intercalation**|M. Tomlinson et.al.|[2605.06545](http://arxiv.org/abs/2605.06545)|null|
+|**2026-05-07**|**TDDFT Gradients and Nonadiabatic Couplings with Minimal Auxiliary Basis Set Approximation for Fewest-Switches Surface Hopping Dynamics**|Cheng Fan et.al.|[2605.06489](http://arxiv.org/abs/2605.06489)|null|
+|**2026-05-07**|**ORTHOBO: Orthogonal Bayesian Hyperparameter Optimization**|Maresa Schröder et.al.|[2605.06454](http://arxiv.org/abs/2605.06454)|null|
+|**2026-05-07**|**Probabilistic Assessment of Rare Transient Instability Events via Kriging-based Active Learning Framework**|Jingyu Liu et.al.|[2605.06442](http://arxiv.org/abs/2605.06442)|null|
+|**2026-05-07**|**Decoupled PFNs: Identifiable Epistemic-Aleatoric Decomposition via Structured Synthetic Priors**|Richard Bergna et.al.|[2605.06413](http://arxiv.org/abs/2605.06413)|null|
+|**2026-05-07**|**From Deposition Stress to Surface Reactivity: Strain-Dependent Hydrogen Evolution on Sputtered Platinum Thin Films**|Sabrina Baha et.al.|[2605.06348](http://arxiv.org/abs/2605.06348)|null|
+|**2026-05-07**|**Solvent-induced memory effects in a model electrolyte**|Sleeba Varghese et.al.|[2605.06293](http://arxiv.org/abs/2605.06293)|null|
+|**2026-05-07**|**FunctionalAgent: Towards end-to-end on-top functional design**|Yuhao Chen et.al.|[2605.06215](http://arxiv.org/abs/2605.06215)|null|
 |**2026-05-06**|**Physiologically Grounded Driver Behavior Classification: SHAP-Driven Elite Feature Selection and Hybrid Gradient Boosting for Multimodal Physiological Signals**|Sahar Askari et.al.|[2605.05120](http://arxiv.org/abs/2605.05120)|null|
 |**2026-05-06**|**Temperature dependence of the Gibbs energies of formation of point defects in B2 MoTa from ab initio calculations**|Xiang Xu et.al.|[2605.04969](http://arxiv.org/abs/2605.04969)|null|
 |**2026-05-06**|**From Defects to Devices: Design Guidelines for High-Performance Diamond-Based Solar Cells and Single-Dopant Diodes**|Matúš Kaintz et.al.|[2605.04942](http://arxiv.org/abs/2605.04942)|null|
@@ -2673,12 +2704,22 @@
 |**2026-01-15**|**Hybrid Quantum Algorithms for Computational Chemistry: Application to the Pyridine-Li ion Complex**|Fatemeh Ghasemi et.al.|[2601.10002](http://arxiv.org/abs/2601.10002)|null|
 |**2026-01-15**|**Parallelizing the Variational Quantum Eigensolver: From JIT Compilation to Multi-GPU Scaling**|Rylan Malarchick et.al.|[2601.09951](http://arxiv.org/abs/2601.09951)|null|
 
-<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 ## Protein & Biomolecules
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-07**|**Edge-specific signal propagation on mature chromophore-region 3D mechanism graphs for fluorescent protein quantum-yield prediction**|Yuchen Xiong et.al.|[2605.06644](http://arxiv.org/abs/2605.06644)|null|
+|**2026-05-07**|**Connectedness in Codimension One and the Non- $S_2$ Locus**|Likun Xie et.al.|[2605.06617](http://arxiv.org/abs/2605.06617)|null|
+|**2026-05-07**|**PairAlign: A Framework for Sequence Tokenization via Self-Alignment with Applications to Audio Tokenization**|Adhiraj Banerjee et.al.|[2605.06582](http://arxiv.org/abs/2605.06582)|null|
+|**2026-05-07**|**A Unified SU(2) Framework for Vector Beam Transformations and Complex Beam Shaping**|Gayathri G T et.al.|[2605.06566](http://arxiv.org/abs/2605.06566)|null|
+|**2026-05-07**|**QUBO-Based Calibration for Regression Trees**|Iro René Kouarfate et.al.|[2605.06528](http://arxiv.org/abs/2605.06528)|null|
+|**2026-05-07**|**Leap generators for composition schemes**|Éric Fusy et.al.|[2605.06471](http://arxiv.org/abs/2605.06471)|null|
+|**2026-05-07**|**Asymptotic Statistics of Odd Unimodal Sequences: Rank Distributions and Probabilistic Structures**|Bing He et.al.|[2605.06459](http://arxiv.org/abs/2605.06459)|null|
+|**2026-05-07**|**Expressiveness Limits of Autoregressive Semantic ID Generation in Generative Recommendation**|Yupeng Hou et.al.|[2605.06331](http://arxiv.org/abs/2605.06331)|null|
+|**2026-05-07**|**When Graph Language Models Go Beyond Memorization**|Masatsugu Yamada et.al.|[2605.06239](http://arxiv.org/abs/2605.06239)|null|
+|**2026-05-07**|**Taming the Entropy Cliff: Variable Codebook Size Quantization for Autoregressive Visual Generation**|Bowen Zheng et.al.|[2605.06207](http://arxiv.org/abs/2605.06207)|null|
 |**2026-05-06**|**S-LCG: Structured Linear Congruential Generator-Based Deterministic Algorithm for Search and Optimization**|Ahmed Qasim Mohammed et.al.|[2605.05198](http://arxiv.org/abs/2605.05198)|null|
 |**2026-05-06**|**On Turán's inequality: new general criteria, nonnegative representations and the class of generalized Chebyshev polynomials**|Stefan Kahler et.al.|[2605.05180](http://arxiv.org/abs/2605.05180)|null|
 |**2026-05-06**|**Geometry-Aware State Space Model: A New Paradigm for Whole-Slide Image Representation**|Enhui Chai et.al.|[2605.05164](http://arxiv.org/abs/2605.05164)|null|
@@ -3504,12 +3545,22 @@
 |**2026-01-15**|**The Spatial Blindspot of Vision-Language Models**|Nahid Alam et.al.|[2601.09954](http://arxiv.org/abs/2601.09954)|null|
 |**2026-01-14**|**Collapse of a single polymer chain: Effects of chain stiffness and attraction range**|Yanyan Zhu et.al.|[2601.09908](http://arxiv.org/abs/2601.09908)|null|
 
-<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 ## Large Language Models & Materials
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-07**|**EMO: Pretraining Mixture of Experts for Emergent Modularity**|Ryan Wang et.al.|[2605.06663](http://arxiv.org/abs/2605.06663)|null|
+|**2026-05-07**|**Verifier-Backed Hard Problem Generation for Mathematical Reasoning**|Yuhang Lai et.al.|[2605.06660](http://arxiv.org/abs/2605.06660)|null|
+|**2026-05-07**|**Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less**|Yuxing Liu et.al.|[2605.06654](http://arxiv.org/abs/2605.06654)|null|
+|**2026-05-07**|**Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients**|Mingwei Xu et.al.|[2605.06650](http://arxiv.org/abs/2605.06650)|null|
+|**2026-05-07**|**StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction**|Xiangyuan Xue et.al.|[2605.06642](http://arxiv.org/abs/2605.06642)|null|
+|**2026-05-07**|**GlazyBench: A Benchmark for Ceramic Glaze Property Prediction and Image Generation**|Ziyu Zhai et.al.|[2605.06641](http://arxiv.org/abs/2605.06641)|null|
+|**2026-05-07**|**Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key**|Tianle Wang et.al.|[2605.06638](http://arxiv.org/abs/2605.06638)|null|
+|**2026-05-07**|**Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM Deep Research Agents**|Hailey Onweller et.al.|[2605.06635](http://arxiv.org/abs/2605.06635)|null|
+|**2026-05-07**|**Crafting Reversible SFT Behaviors in Large Language Models**|Yuping Lin et.al.|[2605.06632](http://arxiv.org/abs/2605.06632)|null|
+|**2026-05-07**|**MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems**|Zhexuan Wang et.al.|[2605.06623](http://arxiv.org/abs/2605.06623)|null|
 |**2026-05-06**|**Almost-Orthogonality in Lp Spaces: A Case Study with Grok**|Ziang Chen et.al.|[2605.05192](http://arxiv.org/abs/2605.05192)|null|
 |**2026-05-06**|**PSK at SemEval-2026 Task 9: Multilingual Polarization Detection Using Ensemble Gemma Models with Synthetic Data Augmentation**|Srikar Kashyap Pulipaka et.al.|[2605.05159](http://arxiv.org/abs/2605.05159)|null|
 |**2026-05-06**|**Low-Cost Black-Box Detection of LLM Hallucinations via Dynamical System Prediction**|Dan Wilson et.al.|[2605.05134](http://arxiv.org/abs/2605.05134)|null|
@@ -4452,7 +4503,7 @@
 |**2026-01-15**|**Influential Training Data Retrieval for Explaining Verbalized Confidence of LLMs**|Yuxi Xia et.al.|[2601.10645](http://arxiv.org/abs/2601.10645)|null|
 |**2026-01-15**|**iTIMO: An LLM-empowered Synthesis Dataset for Travel Itinerary Modification**|Zhuoxuan Huang et.al.|[2601.10609](http://arxiv.org/abs/2601.10609)|null|
 
-<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/ai4chem-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/ai4chem-arxiv-daily/graphs/contributors
