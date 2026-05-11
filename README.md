@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs**|Peyman Baghershahi et.al.|[2605.08074](http://arxiv.org/abs/2605.08074)|null|
+|**2026-05-08**|**RelAgent: LLM Agents as Data Scientists for Relational Learning**|Xingyue Huang et.al.|[2605.07840](http://arxiv.org/abs/2605.07840)|null|
+|**2026-05-08**|**PPI-Net connects molecular protein interactions to functional processes in disease**|Kyle Higgins et.al.|[2605.07838](http://arxiv.org/abs/2605.07838)|null|
+|**2026-05-08**|**High-Q Fano resonance in all-dielectric metasurfaces for molecular fingerprint detection**|S. Hadi Badri et.al.|[2605.07713](http://arxiv.org/abs/2605.07713)|null|
+|**2026-05-08**|**PhySPRING: Structure-Preserving Reduction of Physics-Informed Twins via GNN**|Yixiong Jing et.al.|[2605.07687](http://arxiv.org/abs/2605.07687)|null|
+|**2026-05-08**|**Spatiotemporal Trust Evaluation for Collaborator Selection via Customized GNN-Mamba**|Botao Zhu et.al.|[2605.07658](http://arxiv.org/abs/2605.07658)|null|
+|**2026-05-08**|**Compositional Quantum Heuristics for Max-Clique Detection**|Tiffany Duneau et.al.|[2605.07611](http://arxiv.org/abs/2605.07611)|null|
+|**2026-05-08**|**Bilevel Graph Structure Learning, Revisited: Inner-Channel Origins of the Reported Gain**|Minkyoung Kim et.al.|[2605.07577](http://arxiv.org/abs/2605.07577)|null|
+|**2026-05-08**|**Why Self-Inconsistency Arises in GNN Explanations and How to Exploit It**|Wenxin Tai et.al.|[2605.07527](http://arxiv.org/abs/2605.07527)|null|
+|**2026-05-08**|**Transfer Learning Across Fast- and Full-Simulation Domains in High-Energy Physics**|Matthias Schott et.al.|[2605.07471](http://arxiv.org/abs/2605.07471)|null|
 |**2026-05-07**|**Towards Metric-Faithful Neural Graph Matching**|Jyotirmaya Shivottam et.al.|[2605.06588](http://arxiv.org/abs/2605.06588)|null|
 |**2026-05-07**|**On the Safety of Graph Representation Learning**|Xiaoguang Guo et.al.|[2605.06576](http://arxiv.org/abs/2605.06576)|null|
 |**2026-05-07**|**No Triangulation Without Representation: Generalization in Topological Deep Learning**|Johannes S. Schmidt et.al.|[2605.06467](http://arxiv.org/abs/2605.06467)|null|
@@ -664,6 +674,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**Normalizing Trajectory Models**|Jiatao Gu et.al.|[2605.08078](http://arxiv.org/abs/2605.08078)|null|
+|**2026-05-08**|**STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation**|Ying Shen et.al.|[2605.08029](http://arxiv.org/abs/2605.08029)|null|
+|**2026-05-08**|**Uncertainty Quantification for Cardiac Shape Reconstruction with Deep Signed Distance Functions via MCMC methods**|Jan Verhülsdonk et.al.|[2605.07987](http://arxiv.org/abs/2605.07987)|null|
+|**2026-05-08**|**HEART: Hyperspherical Embedding Alignment via Kent-Representation Traversal in Diffusion Models**|Arani Roy et.al.|[2605.07973](http://arxiv.org/abs/2605.07973)|null|
+|**2026-05-08**|**When Diffusion Model Can Ignore Dimension: An Entropy-Based Theory**|Ahmad Aghapour et.al.|[2605.07969](http://arxiv.org/abs/2605.07969)|null|
+|**2026-05-08**|**TimeLesSeg: Unified Contrast-Agnostic Cross-Sectional and Longitudinal MS Lesion Segmentation via a Stochastic Generative Model**|Vicent Caselles-Ballester et.al.|[2605.07955](http://arxiv.org/abs/2605.07955)|null|
+|**2026-05-08**|**Slowly Annealed Langevin Dynamics: Theory and Applications to Training-Free Guided Generation**|Atsushi Nitanda et.al.|[2605.07950](http://arxiv.org/abs/2605.07950)|null|
+|**2026-05-08**|**How to Train Your Latent Diffusion Language Model Jointly With the Latent Space**|Viacheslav Meshchaninov et.al.|[2605.07933](http://arxiv.org/abs/2605.07933)|null|
+|**2026-05-08**|**What Matters for Diffusion-Friendly Latent Manifold? Prior-Aligned Autoencoders for Latent Diffusion**|Zhengrong Yue et.al.|[2605.07915](http://arxiv.org/abs/2605.07915)|null|
+|**2026-05-08**|**Consistency Regularised Gradient Flows for Inverse Problems**|Alessio Spagnoletti et.al.|[2605.07907](http://arxiv.org/abs/2605.07907)|null|
 |**2026-05-07**|**ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation**|Omar El Khalifi et.al.|[2605.06667](http://arxiv.org/abs/2605.06667)|null|
 |**2026-05-07**|**Relit-LiVE: Relight Video by Jointly Learning Environment Video**|Weiqing Xiao et.al.|[2605.06658](http://arxiv.org/abs/2605.06658)|null|
 |**2026-05-07**|**Hybrid Quantum-Classical GANs for the Generation of Adversarial Network Flows**|Prateek Paudel et.al.|[2605.06629](http://arxiv.org/abs/2605.06629)|null|
@@ -1700,6 +1720,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**From Feasible to Practical: Pareto-Optimal Synthesis Planning**|Friedrich Hastedt et.al.|[2605.07521](http://arxiv.org/abs/2605.07521)|null|
+|**2026-05-08**|**Spin-lattice coupling enables adaptive adsorption in magnetically-driven electrocatalysts**|Arnold Gaje et.al.|[2605.07437](http://arxiv.org/abs/2605.07437)|null|
 |**2026-05-07**|**Edge-specific signal propagation on mature chromophore-region 3D mechanism graphs for fluorescent protein quantum-yield prediction**|Yuchen Xiong et.al.|[2605.06644](http://arxiv.org/abs/2605.06644)|null|
 |**2026-05-06**|**Catalytic advantage in asymptotic entanglement manipulation**|Ray Ganardi et.al.|[2605.04879](http://arxiv.org/abs/2605.04879)|null|
 |**2026-05-03**|**Meta-LegNet: A Transferable and Interpretable Framework for Surface Adsorption Prediction via Self-Defined Adsorption-Environment Learning**|Yifan Li et.al.|[2605.04102](http://arxiv.org/abs/2605.04102)|null|
@@ -1843,6 +1865,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**Anisotropic Defect Diffusion in Layered CsPbBr $_\mathrm{x}$I$_\mathrm{3-x}$ Perovskites**|Konrad Wilke et.al.|[2605.08055](http://arxiv.org/abs/2605.08055)|null|
+|**2026-05-08**|**MatterSim-MT: A multi-task foundation model for in silico materials characterization**|Han Yang et.al.|[2605.07927](http://arxiv.org/abs/2605.07927)|null|
+|**2026-05-08**|**ADKO: Agentic Decentralized Knowledge Optimization**|Lucas Nerone Rillo et.al.|[2605.07863](http://arxiv.org/abs/2605.07863)|null|
+|**2026-05-08**|**Electronic excitations in the Shastry-Sutherland compound SrCu $_2$(BO$_3$)$_2$**|Tariq Leinen et.al.|[2605.07862](http://arxiv.org/abs/2605.07862)|null|
+|**2026-05-08**|**SMT-Based Active Learning of Weighted Automata**|Tiago Ferreira et.al.|[2605.07758](http://arxiv.org/abs/2605.07758)|null|
+|**2026-05-08**|**When Losses Align: Gradient-Based Composite Loss Weighting for Efficient Pretraining**|Ivan Karpukhin et.al.|[2605.07756](http://arxiv.org/abs/2605.07756)|null|
+|**2026-05-08**|**Selectivity- and Activity-Aware Catalyst Descriptors for CO $_2$ Hydrogenation on Alloy Nanocatalysts using Machine-Learned Force Fields**|Prajwal Pisal et.al.|[2605.07714](http://arxiv.org/abs/2605.07714)|null|
+|**2026-05-08**|**Harnessing Structural Disorder: Unraveling Hydrogen Evolution in Monolayer Amorphous Carbon via First-Principles Simulations and Machine-Learned Potentials**|Sreehari M S et.al.|[2605.07670](http://arxiv.org/abs/2605.07670)|null|
+|**2026-05-08**|**Open-Ended Task Discovery via Bayesian Optimization**|Masaki Adachi et.al.|[2605.07572](http://arxiv.org/abs/2605.07572)|null|
+|**2026-05-08**|**Noncollinear antiferromagnetic structure and physical properties of CrRhAs with distorted kagome lattice**|Chenglin Shang et.al.|[2605.07540](http://arxiv.org/abs/2605.07540)|null|
 |**2026-05-07**|**MTRBO: Multiple trust-region based Bayesian optimization**|Sourav Das et.al.|[2605.06618](http://arxiv.org/abs/2605.06618)|null|
 |**2026-05-07**|**Molecular dynamics simulation study of mechanical properties of 3C-SiC with extended defects**|Serhii Shmahlii et.al.|[2605.06574](http://arxiv.org/abs/2605.06574)|null|
 |**2026-05-07**|**Emergence of a correlated insulating state in bulk 1T-NbSe $_2$ via metal intercalation**|M. Tomlinson et.al.|[2605.06545](http://arxiv.org/abs/2605.06545)|null|
@@ -2710,6 +2742,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**Inferring Asteroseismic Parameters from Short Observations Using Deep Learning: Application to TESS and K2 Red Giants**|Nipun Ghanghas et.al.|[2605.08051](http://arxiv.org/abs/2605.08051)|null|
+|**2026-05-08**|**STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation**|Ying Shen et.al.|[2605.08029](http://arxiv.org/abs/2605.08029)|null|
+|**2026-05-08**|**GLiGuard: Schema-Conditioned Classification for LLM Safeguard**|Urchade Zaratiana et.al.|[2605.07982](http://arxiv.org/abs/2605.07982)|null|
+|**2026-05-08**|**Multilayer model for coatings with arbitrary layers for superconducting radio-frequency applications**|Aaron Gobeyn et.al.|[2605.07958](http://arxiv.org/abs/2605.07958)|null|
+|**2026-05-08**|**The number and structure of connected graphs with a fixed degree sequence**|Sasha Bell et.al.|[2605.07923](http://arxiv.org/abs/2605.07923)|null|
+|**2026-05-08**|**Touring a Sequence of Orthogonal Polygons**|Katrin Casel et.al.|[2605.07882](http://arxiv.org/abs/2605.07882)|null|
+|**2026-05-08**|**CHASM: Online Changepoint Detection in Temporal and Cross-Variable Dependence**|Victor K. Khamesi et.al.|[2605.07852](http://arxiv.org/abs/2605.07852)|null|
+|**2026-05-08**|**GenAI Powered Dynamic Causal Inference with Unstructured Data**|Kentaro Nakamura et.al.|[2605.07834](http://arxiv.org/abs/2605.07834)|null|
+|**2026-05-08**|**CktFormalizer: Autoformalization of Natural Language into Circuit Representations**|Jing Xiong et.al.|[2605.07782](http://arxiv.org/abs/2605.07782)|null|
+|**2026-05-08**|**When Losses Align: Gradient-Based Composite Loss Weighting for Efficient Pretraining**|Ivan Karpukhin et.al.|[2605.07756](http://arxiv.org/abs/2605.07756)|null|
 |**2026-05-07**|**Edge-specific signal propagation on mature chromophore-region 3D mechanism graphs for fluorescent protein quantum-yield prediction**|Yuchen Xiong et.al.|[2605.06644](http://arxiv.org/abs/2605.06644)|null|
 |**2026-05-07**|**Connectedness in Codimension One and the Non- $S_2$ Locus**|Likun Xie et.al.|[2605.06617](http://arxiv.org/abs/2605.06617)|null|
 |**2026-05-07**|**PairAlign: A Framework for Sequence Tokenization via Self-Alignment with Applications to Audio Tokenization**|Adhiraj Banerjee et.al.|[2605.06582](http://arxiv.org/abs/2605.06582)|null|
@@ -3551,6 +3593,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling**|Tong Zheng et.al.|[2605.08083](http://arxiv.org/abs/2605.08083)|null|
+|**2026-05-08**|**Flow-OPD: On-Policy Distillation for Flow Matching Models**|Zhen Fang et.al.|[2605.08063](http://arxiv.org/abs/2605.08063)|null|
+|**2026-05-08**|**Weak Order on the MacNeille Completion of Bruhat Order**|Colin Defant et.al.|[2605.08033](http://arxiv.org/abs/2605.08033)|null|
+|**2026-05-08**|**Abductive Reasoning with Probabilistic Commonsense**|Joseph Cotnareanu et.al.|[2605.08011](http://arxiv.org/abs/2605.08011)|null|
+|**2026-05-08**|**SphereVAD: Training-Free Video Anomaly Detection via Geodesic Inference on the Unit Hypersphere**|Chao Huang et.al.|[2605.08003](http://arxiv.org/abs/2605.08003)|null|
+|**2026-05-08**|**GLiGuard: Schema-Conditioned Classification for LLM Safeguard**|Urchade Zaratiana et.al.|[2605.07982](http://arxiv.org/abs/2605.07982)|null|
+|**2026-05-08**|**Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs**|Hanlin Cai et.al.|[2605.07961](http://arxiv.org/abs/2605.07961)|null|
+|**2026-05-08**|**Similar Pattern Annotation via Retrieval Knowledge for LLM-Based Test Code Fault Localization**|Golnaz Gharachorlu et.al.|[2605.07957](http://arxiv.org/abs/2605.07957)|null|
+|**2026-05-08**|**Prototype Guided Post-pretraining for Single-Cell Representation Learning**|Sachini Weerasekara et.al.|[2605.07938](http://arxiv.org/abs/2605.07938)|null|
+|**2026-05-08**|**TraceFix: Repairing Agent Coordination Protocols with TLA+ Counterexamples**|Shuren Xia et.al.|[2605.07935](http://arxiv.org/abs/2605.07935)|null|
 |**2026-05-07**|**EMO: Pretraining Mixture of Experts for Emergent Modularity**|Ryan Wang et.al.|[2605.06663](http://arxiv.org/abs/2605.06663)|null|
 |**2026-05-07**|**Verifier-Backed Hard Problem Generation for Mathematical Reasoning**|Yuhang Lai et.al.|[2605.06660](http://arxiv.org/abs/2605.06660)|null|
 |**2026-05-07**|**Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less**|Yuxing Liu et.al.|[2605.06654](http://arxiv.org/abs/2605.06654)|null|
