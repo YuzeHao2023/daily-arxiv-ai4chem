@@ -2,13 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.05.14
+## Updated on 2026.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Molecular Representation & Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**SAGE3D: Soft-guided attention and graph excitation for 3D point cloud corner detection**|Batuhan Arda Bekar et.al.|[2605.15088](http://arxiv.org/abs/2605.15088)|null|
+|**2026-05-14**|**Fast contracted Clebsch--Gordan tensor products for equivariant graph neural networks**|Anton Bochkarev et.al.|[2605.15073](http://arxiv.org/abs/2605.15073)|null|
+|**2026-05-14**|**AIMing for Standardised Explainability Evaluation in GNNs: A Framework and Case Study on Graph Kernel Networks**|Magdalena Proszewska et.al.|[2605.14884](http://arxiv.org/abs/2605.14884)|null|
+|**2026-05-14**|**Exploitation of Hidden Context in Dynamic Movement Forecasting: A Neural Network Journey from Recurrent to Graph Neural Networks and General Purpose Transformers**|Lukas Schelenz et.al.|[2605.14855](http://arxiv.org/abs/2605.14855)|null|
+|**2026-05-14**|**Multi-objective application placement in fog computing using graph neural network-based reinforcement learning**|Isaac Lera et.al.|[2605.14649](http://arxiv.org/abs/2605.14649)|null|
+|**2026-05-14**|**Learning Scenario Reduction for Two-Stage Robust Optimization with Discrete Uncertainty**|Tianjue Lin et.al.|[2605.14494](http://arxiv.org/abs/2605.14494)|null|
+|**2026-05-13**|**Flow Field Reconstruction with Sensor Placement Policy Learning**|Ruoyan Li et.al.|[2605.14137](http://arxiv.org/abs/2605.14137)|null|
+|**2026-05-13**|**Double Metric Learning for Building Directed Graphs with Chain Connections for the ATLAS ITk Detector**|Jay Chan et.al.|[2605.14131](http://arxiv.org/abs/2605.14131)|null|
 |**2026-05-13**|**Graph Neural Networks with Triangle-Based Messages for the Multicut Problem**|Jannik Irmai et.al.|[2605.13673](http://arxiv.org/abs/2605.13673)|null|
 |**2026-05-13**|**Multimodal Graph-based Classification of Esophageal Motility Disorders**|Alexander Geiger et.al.|[2605.13623](http://arxiv.org/abs/2605.13623)|null|
 |**2026-05-13**|**Rethinking Generalization in Graph Neural Networks: A Structural Complexity Perspective**|Peiyao Wang et.al.|[2605.13597](http://arxiv.org/abs/2605.13597)|null|
@@ -693,6 +701,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**RefDecoder: Enhancing Visual Generation with Conditional Video Decoding**|Xiang Fan et.al.|[2605.15196](http://arxiv.org/abs/2605.15196)|null|
+|**2026-05-14**|**RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-model GRPO**|Yanzuo Lu et.al.|[2605.15190](http://arxiv.org/abs/2605.15190)|null|
+|**2026-05-14**|**Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video**|Yifan Wang et.al.|[2605.15182](http://arxiv.org/abs/2605.15182)|null|
+|**2026-05-14**|**Matching higher-dimensional operators at finite temperature for general models**|Fabio Bernardo et.al.|[2605.15176](http://arxiv.org/abs/2605.15176)|null|
+|**2026-05-14**|**DiffusionOPD: A Unified Perspective of On-Policy Distillation in Diffusion Models**|Quanhao Li et.al.|[2605.15055](http://arxiv.org/abs/2605.15055)|null|
+|**2026-05-14**|**Separating Intrinsic Ambiguity from Estimation Uncertainty in Deep Generative Models for Linear Inverse Problems**|Yuxin Guo et.al.|[2605.15050](http://arxiv.org/abs/2605.15050)|null|
+|**2026-05-14**|**EverAnimate: Minute-Scale Human Animation via Latent Flow Restoration**|Wuyang Li et.al.|[2605.15042](http://arxiv.org/abs/2605.15042)|null|
+|**2026-05-14**|**Compositional Video Generation via Inference-Time Guidance**|Ariel Shaulov et.al.|[2605.14988](http://arxiv.org/abs/2605.14988)|null|
+|**2026-05-14**|**MicroscopyMatching: Towards a Ready-to-use Framework for Microscopy Image Analysis in Diverse Conditions**|Xiaofei Hui et.al.|[2605.14980](http://arxiv.org/abs/2605.14980)|null|
+|**2026-05-14**|**ACE-LoRA: Adaptive Orthogonal Decoupling for Continual Image Editing**|Yuehao Liu et.al.|[2605.14948](http://arxiv.org/abs/2605.14948)|null|
 |**2026-05-13**|**R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow**|Zijie Wu et.al.|[2605.13838](http://arxiv.org/abs/2605.13838)|null|
 |**2026-05-13**|**Di-BiLPS: Denoising induced Bidirectional Latent-PDE-Solver under Sparse Observations**|Zhonghao Li et.al.|[2605.13790](http://arxiv.org/abs/2605.13790)|null|
 |**2026-05-13**|**ENSEMBITS: an alphabet of protein conformational ensembles**|Kaiwen Shi et.al.|[2605.13789](http://arxiv.org/abs/2605.13789)|null|
@@ -1776,6 +1794,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Fourth order correlation of baryon number and electric charge as a better magnetometer of QCD**|Shijun Mao et.al.|[2605.14674](http://arxiv.org/abs/2605.14674)|null|
+|**2026-05-14**|**Strain-Enhanced Hydrogen Evolution, Electrical, Optical, and Thermoelectric Properties of the Multifunctional 2D CrSi2N4 Monolayer**|Rao Uzair Ahmad et.al.|[2605.14408](http://arxiv.org/abs/2605.14408)|null|
+|**2026-05-13**|**TSAgent: An Agentic Workflow for Autonomous Transition State Search**|Varun Madhavan et.al.|[2605.14154](http://arxiv.org/abs/2605.14154)|null|
 |**2026-05-13**|**Optimal Quantum Illumination with Nonlocal Non-Gaussian Operations**|Luis D. Zambrano Palma et.al.|[2605.13747](http://arxiv.org/abs/2605.13747)|null|
 |**2026-05-13**|**Margin-calibrated Classifier Guidance for Property-driven Synthesis Planning**|Najwa Laabid et.al.|[2605.13101](http://arxiv.org/abs/2605.13101)|null|
 |**2026-05-12**|**ConRetroBert: EMA Stabilized Dual Encoders for Template-Based Single-Step Retrosynthesis**|Mohammad Jahid Ibna Basher et.al.|[2605.12736](http://arxiv.org/abs/2605.12736)|null|
@@ -1927,6 +1948,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Multi-Block Attention for Efficient Channel Estimation in IRS-Assisted mmWave MIMO**|Mehrdad Momen-Tayefeh et.al.|[2605.15032](http://arxiv.org/abs/2605.15032)|null|
+|**2026-05-14**|**THEMol dataset: Torsion, Hessian, and Energy of Molecules**|Jiashu Liang et.al.|[2605.14973](http://arxiv.org/abs/2605.14973)|null|
+|**2026-05-14**|**A Mutual Information Lower Bound for Multimodal Regression Active Learning**|Leonardo Ferreira Guilhoto et.al.|[2605.14917](http://arxiv.org/abs/2605.14917)|null|
+|**2026-05-14**|**Chrono-Gymnasium: An Open-Source, Gymnasium-Compatible Distributed Simulation Framework**|Bocheng Zou et.al.|[2605.14911](http://arxiv.org/abs/2605.14911)|null|
+|**2026-05-14**|**Melting Behavior and Phase Stability of CaO from Neural Network Potentials: a Molecular Dynamics Study**|Francesca Menescardi et.al.|[2605.14793](http://arxiv.org/abs/2605.14793)|null|
+|**2026-05-14**|**Functional and Density-Driven Errors in Density Functional Theory: Quantum Monte Carlo Benchmarks for Solids**|Ayoub Aouina et.al.|[2605.14745](http://arxiv.org/abs/2605.14745)|null|
+|**2026-05-14**|**Are Candidate Models Really Needed for Active Learning?**|Harshini Mridula Mohan et.al.|[2605.14689](http://arxiv.org/abs/2605.14689)|null|
+|**2026-05-14**|**Generalized Suzuki-Chin Factorization in Bosonic Path Integral Molecular Dynamics**|Jacob Higer et.al.|[2605.14687](http://arxiv.org/abs/2605.14687)|null|
+|**2026-05-14**|**Malleable Molecular Dynamics Simulations with GROMACS and DMR**|Petter Sandås et.al.|[2605.14655](http://arxiv.org/abs/2605.14655)|null|
+|**2026-05-14**|**N-Graphdiyne as a Tunable Platform for Stabilizing Light Metals toward High-Capacity Reversible Hydrogen Storage**|Wael Othman et.al.|[2605.14646](http://arxiv.org/abs/2605.14646)|null|
 |**2026-05-13**|**ENSEMBITS: an alphabet of protein conformational ensembles**|Kaiwen Shi et.al.|[2605.13789](http://arxiv.org/abs/2605.13789)|null|
 |**2026-05-13**|**Force-Aware Neural Tangent Kernels for Scalable and Robust Active Learning of MLIPs**|Eszter Varga-Umbrich et.al.|[2605.13788](http://arxiv.org/abs/2605.13788)|null|
 |**2026-05-13**|**Nonlinear dynamic elastic moduli from equilibrium stress fluctuations**|F. E. Garbuzov et.al.|[2605.13703](http://arxiv.org/abs/2605.13703)|null|
@@ -2832,6 +2863,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**MetaBackdoor: Exploiting Positional Encoding as a Backdoor Attack Surface in LLMs**|Rui Wen et.al.|[2605.15172](http://arxiv.org/abs/2605.15172)|null|
+|**2026-05-14**|**DriveCtrl: Conditioned Sim-to-Real Driving Video Generation**|Haonan Zhao et.al.|[2605.15116](http://arxiv.org/abs/2605.15116)|null|
+|**2026-05-14**|**Pulsar scintillation arcs formed from branched flow**|Tobias Kramer et.al.|[2605.14986](http://arxiv.org/abs/2605.14986)|null|
+|**2026-05-14**|**Categorification of Chemical Reactions: a bottom-up tower from stoichiometry to quantum structure**|Kyunghoon Han et.al.|[2605.14974](http://arxiv.org/abs/2605.14974)|null|
+|**2026-05-14**|**Chain-of-Procedure: Hierarchical Visual-Language Reasoning for Procedural QA**|Guanhua Chen et.al.|[2605.14928](http://arxiv.org/abs/2605.14928)|null|
+|**2026-05-14**|**Learning with Shallow Neural Networks on Cluster-Structured Features**|Elisabetta Cornacchia et.al.|[2605.14927](http://arxiv.org/abs/2605.14927)|null|
+|**2026-05-14**|**MetaGEM: Bottom-Up Reconstruction of Genome-Scale Metabolic Networks via Deep Enzyme-Metabolite Anchoring**|Weiyu Xiao et.al.|[2605.14812](http://arxiv.org/abs/2605.14812)|null|
+|**2026-05-14**|**Evolution of lean hydrogen-air premixed flames under high-frequency acoustic forcing: flame morphology and displacement speed**|Xinyi Chen et.al.|[2605.14789](http://arxiv.org/abs/2605.14789)|null|
+|**2026-05-14**|**Betweenness Central Nodes Under Uncertainty: An Absorbing Markov Chain Approach**|Wencheng Bao et.al.|[2605.14743](http://arxiv.org/abs/2605.14743)|null|
+|**2026-05-14**|**DRL-STAF: A Deep Reinforcement Learning Framework for State-Aware Forecasting of Complex Multivariate Hidden Markov Processes**|Manrui Jiang et.al.|[2605.14632](http://arxiv.org/abs/2605.14632)|null|
 |**2026-05-13**|**From DES to KiDS: Domain adaptation for cross-survey detection of low-surface-brightness galaxies**|Hareesh Thuruthipilly et.al.|[2605.13842](http://arxiv.org/abs/2605.13842)|null|
 |**2026-05-13**|**QLAM: A Quantum Long-Attention Memory Approach to Long-Sequence Token Modeling**|Hoang-Quan Nguyen et.al.|[2605.13833](http://arxiv.org/abs/2605.13833)|null|
 |**2026-05-13**|**Adaptive mine planning under geological uncertainty: A POMDP framework for sequential decision-making**|Hamza Khalifi et.al.|[2605.13702](http://arxiv.org/abs/2605.13702)|null|
@@ -3711,6 +3752,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Articraft: An Agentic System for Scalable Articulated 3D Asset Generation**|Matt Zhou et.al.|[2605.15187](http://arxiv.org/abs/2605.15187)|null|
+|**2026-05-14**|**Is Grep All You Need? How Agent Harnesses Reshape Agentic Search**|Sahil Sen et.al.|[2605.15184](http://arxiv.org/abs/2605.15184)|null|
+|**2026-05-14**|**MetaBackdoor: Exploiting Positional Encoding as a Backdoor Attack Surface in LLMs**|Rui Wen et.al.|[2605.15172](http://arxiv.org/abs/2605.15172)|null|
+|**2026-05-14**|**Text Knows What, Tables Know When: Clinical Timeline Reconstruction via Retrieval-Augmented Multimodal Alignment**|Sayantan Kumar et.al.|[2605.15168](http://arxiv.org/abs/2605.15168)|null|
+|**2026-05-14**|**MeMo: Memory as a Model**|Ryan Wei Heng Quek et.al.|[2605.15156](http://arxiv.org/abs/2605.15156)|null|
+|**2026-05-14**|**APWA: A Distributed Architecture for Parallelizable Agentic Workflows**|Evan Rose et.al.|[2605.15132](http://arxiv.org/abs/2605.15132)|null|
+|**2026-05-14**|**Improving Multi-turn Dialogue Consistency with Self-Recall Thinking**|Renning Pang et.al.|[2605.15102](http://arxiv.org/abs/2605.15102)|null|
+|**2026-05-14**|**Dual-Dimensional Consistency: Balancing Budget and Quality in Adaptive Inference-Time Scaling**|Rongman Xu et.al.|[2605.15100](http://arxiv.org/abs/2605.15100)|null|
+|**2026-05-14**|**TFGN: Task-Free, Replay-Free Continual Pre-Training Without Catastrophic Forgetting at LLM Scale**|Anurup Ganguli et.al.|[2605.15053](http://arxiv.org/abs/2605.15053)|null|
+|**2026-05-14**|**An Interpretable Latency Model for Speculative Decoding in LLM Serving**|Linghao Kong et.al.|[2605.15051](http://arxiv.org/abs/2605.15051)|null|
 |**2026-05-13**|**WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data**|Ziheng Zhang et.al.|[2605.13846](http://arxiv.org/abs/2605.13846)|null|
 |**2026-05-13**|**Reducing cross-sample prediction churn in scientific machine learning**|Gordan Prastalo et.al.|[2605.13826](http://arxiv.org/abs/2605.13826)|null|
 |**2026-05-13**|**Neurosymbolic Auditing of Natural-Language Software Requirements**|Bethel Hall et.al.|[2605.13817](http://arxiv.org/abs/2605.13817)|null|
