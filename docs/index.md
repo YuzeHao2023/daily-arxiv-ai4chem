@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.13
+## Updated on 2026.07.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Molecular Representation & Learning
