@@ -41,7 +41,7 @@ def load_config(config_file:str) -> dict:
             keywords[k] = parse_filters(v['filters'])
         return keywords
     with open(config_file,'r') as f:
-        config = yaml.load(f,Loader=yaml.FullLoader)
+        config = yaml.safe_load(f,Loader=yaml.FullLoader)
         config['kv'] = pretty_filters(**config)
         logging.info(f'config = {config}')
     return config
@@ -76,7 +76,7 @@ def get_code_link(qword:str) -> str:
         "sort": "stars",
         "order": "desc"
     }
-    r = requests.get(github_url, params=params)
+    r = requests.get(github_url, params=params, timeout=10.0)
     results = r.json()
     code_link = None
     if results["total_count"] > 0:
